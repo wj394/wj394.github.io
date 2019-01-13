@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-12T10:20:11.359Z</updated>
+  <updated>2019-01-13T06:53:31.755Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,11 +21,13 @@
     <link href="http://yoursite.com/2019/01/12/nihao/"/>
     <id>http://yoursite.com/2019/01/12/nihao/</id>
     <published>2019-01-12T10:20:11.000Z</published>
-    <updated>2019-01-12T10:20:11.359Z</updated>
+    <updated>2019-01-13T06:53:31.755Z</updated>
     
     <summary type="html">
     
     </summary>
+    
+      <category term="临时" scheme="http://yoursite.com/categories/%E4%B8%B4%E6%97%B6/"/>
     
     
   </entry>
