@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WJ394</title>
+  
+  <subtitle>One thing I know,that is I know nothing.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-01-12T10:20:11.359Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>WJ394</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nihao</title>
+    <link href="http://yoursite.com/2019/01/12/nihao/"/>
+    <id>http://yoursite.com/2019/01/12/nihao/</id>
+    <published>2019-01-12T10:20:11.000Z</published>
+    <updated>2019-01-12T10:20:11.359Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
