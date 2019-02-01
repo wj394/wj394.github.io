@@ -5,9 +5,9 @@
   <subtitle>One thing I know,that is I know nothing.</subtitle>
   <link href="/wj394.github.io/atom.xml" rel="self"/>
   
-  <link href="http://wj394.github.io/"/>
+  <link href="https://wj394.github.io/"/>
   <updated>2019-01-29T11:17:39.192Z</updated>
-  <id>http://wj394.github.io/</id>
+  <id>https://wj394.github.io/</id>
   
   <author>
     <name>WJ394</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>龋齿与窝沟封闭</title>
-    <link href="http://wj394.github.io/2019/01/24/%E7%AA%9D%E6%B2%9F%E5%B0%81%E9%97%AD%E4%B8%8E%E9%BE%8B%E9%BD%BF/"/>
-    <id>http://wj394.github.io/2019/01/24/窝沟封闭与龋齿/</id>
+    <link href="https://wj394.github.io/2019/01/24/%E7%AA%9D%E6%B2%9F%E5%B0%81%E9%97%AD%E4%B8%8E%E9%BE%8B%E9%BD%BF/"/>
+    <id>https://wj394.github.io/2019/01/24/窝沟封闭与龋齿/</id>
     <published>2019-01-23T16:00:00.000Z</published>
     <updated>2019-01-29T11:17:39.192Z</updated>
     
@@ -31,10 +31,10 @@
     
     </summary>
     
-      <category term="知识" scheme="http://wj394.github.io/categories/%E7%9F%A5%E8%AF%86/"/>
+      <category term="知识" scheme="https://wj394.github.io/categories/%E7%9F%A5%E8%AF%86/"/>
     
     
-      <category term="知识, 健康, 牙齿" scheme="http://wj394.github.io/tags/%E7%9F%A5%E8%AF%86-%E5%81%A5%E5%BA%B7-%E7%89%99%E9%BD%BF/"/>
+      <category term="知识, 健康, 牙齿" scheme="https://wj394.github.io/tags/%E7%9F%A5%E8%AF%86-%E5%81%A5%E5%BA%B7-%E7%89%99%E9%BD%BF/"/>
     
   </entry>
   
