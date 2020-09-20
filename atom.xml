@@ -6,7 +6,7 @@
   <link href="/wj394.github.io/atom.xml" rel="self"/>
   
   <link href="https://wj394.github.io/"/>
-  <updated>2020-05-20T06:34:43.214Z</updated>
+  <updated>2020-09-20T08:51:19.188Z</updated>
   <id>https://wj394.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>统计学</title>
+    <link href="https://wj394.github.io/2020/09/20/%E7%BB%9F%E8%AE%A1%E5%AD%A6/"/>
+    <id>https://wj394.github.io/2020/09/20/统计学/</id>
+    <published>2020-09-19T16:00:00.000Z</published>
+    <updated>2020-09-20T08:51:19.188Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="统计学（记录）"><a href="#统计学（记录）" class="headerlink" title="统计学（记录）"></a>统计学（记录）</h1><a id="more"></a><h2 id="1-标准差（SD）与标准误（SE）"><a href="#1-标准差（SD）与标准误（SE）" class="headerlink" title="1.标准差（SD）与标准误（SE）"></a>1.标准差（SD）与标准误（SE）</h2><p>从总体抽出一个样本，可以计算样本均值，我们通常使用样本均值来估计总体均值，反复抽样，每次得到的样本均值肯定是稍有不同的，我们需要用方差来量化这种不确定性。<br>对于标准误差，有一词叫标准差（standard deviation, SD）还有一词叫标准误（standard error, SE），很容易混淆，我们拿到一个样本，对样本观察值离散程度的量化是SD: sd(x) ，而我们可以从很多个样本中得到很多个均值，这些均值的离散度用SE来量化， 也就是 SE=sd(x¯) 。<br>对于均值的SE，通常称之为SEM（standard error of the means）。SEM显然和总体方差 σ2 以及样本量n有关，总体离散度高，SEM也会大一些；另一方面，样本量越大，对总体的估计就越好，SEM就会越小，这个还是很好理解的。</p><h2 id="参考文章："><a href="#参考文章：" class="headerlink" title="参考文章："></a>参考文章：</h2><p>①<a href="https://guangchuangyu.github.io/statistics_notes/section-4.html#p" target="_blank" rel="noopener">https://guangchuangyu.github.io/statistics_notes/section-4.html#p</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;统计学（记录）&quot;&gt;&lt;a href=&quot;#统计学（记录）&quot; class=&quot;headerlink&quot; title=&quot;统计学（记录）&quot;&gt;&lt;/a&gt;统计学（记录）&lt;/h1&gt;
+    
+    </summary>
+    
+      <category term="学习" scheme="https://wj394.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="知识, 统计" scheme="https://wj394.github.io/tags/%E7%9F%A5%E8%AF%86-%E7%BB%9F%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>20200520日记</title>
@@ -109,7 +131,7 @@
     <link href="https://wj394.github.io/2019/01/24/%E7%AA%9D%E6%B2%9F%E5%B0%81%E9%97%AD%E4%B8%8E%E9%BE%8B%E9%BD%BF/"/>
     <id>https://wj394.github.io/2019/01/24/窝沟封闭与龋齿/</id>
     <published>2019-01-23T16:00:00.000Z</published>
-    <updated>2019-02-02T04:45:05.671Z</updated>
+    <updated>2020-09-20T08:49:48.188Z</updated>
     
     <content type="html"><![CDATA[<h1 id="龋齿（窝沟封闭）"><a href="#龋齿（窝沟封闭）" class="headerlink" title="龋齿（窝沟封闭）"></a>龋齿（窝沟封闭）</h1><p>转载文章 来自果壳。<br>觉得很有用，就自己打了一遍。</p><a id="more"></a><h2 id="1-预防"><a href="#1-预防" class="headerlink" title="1.预防"></a>1.预防</h2><ul><li>刷牙和使用含氟牙膏</li><li>窝沟封闭<h2 id="2-治疗"><a href="#2-治疗" class="headerlink" title="2.治疗"></a>2.治疗</h2>轻则补牙，重则根管治疗（先杀死牙神经，在修补牙洞）。<h2 id="3-窝沟封闭"><a href="#3-窝沟封闭" class="headerlink" title="3.窝沟封闭"></a>3.窝沟封闭</h2>窝沟：牙齿咬合面上的沟沟壑壑<br>窝沟封闭：用高分子化学材料将沟壑填上<br><a href="https://www.superbed.cn/pic/5c499add5f3e509ed9623f9d#pic_center" target="_blank" rel="noopener"><img src="https://www.superbed.cn/pic/5c499add5f3e509ed9623f9d" alt=""></a><br><a href="https://www.superbed.cn/pic/5c49a0335f3e509ed9625c93" target="_blank" rel="noopener"><img src="https://www.superbed.cn/pic/5c49a0335f3e509ed9625c93" alt=""></a></li></ul><p>有窝沟牙齿包括乳磨牙（会换）、前磨牙、恒磨牙。<br><a href="https://www.superbed.cn/pic/5c499e8a5f3e509ed962543c" target="_blank" rel="noopener"><img src="https://www.superbed.cn/pic/5c499e8a5f3e509ed962543c" alt=""></a><br>窝沟容易滋生细菌，进而导致龋齿。</p><h4 id="窝沟封闭最佳时间："><a href="#窝沟封闭最佳时间：" class="headerlink" title="窝沟封闭最佳时间："></a>窝沟封闭最佳时间：</h4><p>3~4：乳磨牙<br>6~7：六龄齿（第一恒磨牙）<br>   11：第一二前恒磨牙<br>   12：第二恒磨牙<br>   成人可对无龋齿的牙齿进行窝沟封闭</p><p>窝沟封闭无痛感，且目前<strong>无</strong>证据证明窝沟封闭剂有危害。但是窝沟封闭后，牙齿侧面和邻面仍有可能龋齿，窝沟是龋齿发生可能性较大部位。</p>]]></content>
     
